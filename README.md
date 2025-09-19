@@ -17,7 +17,7 @@ The project is implemented with the following technologies:
 
 ## 📸 Screenshots
 
-| Login List | Add Contact |
+| List Contact | Login |
 |--------------|-------------|
 | <img src="contact/assets/img/contactlist.png" width="240" height="500"> | <img src="contact/assets/img/signin.png" width="240" height="500"> |
 
@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine using Git:
 
    ```sh
-   git clone https://github.com/your-username/contact-app.git
+   git clone hhttps://github.com/goodviet/contact-app.git
    ``` 
 2. Navigate to the project directory:
 
