@@ -19,7 +19,7 @@ The project is implemented with the following technologies:
 
 | Login List | Add Contact |
 |--------------|-------------|
-| <img src="assets/img/signin.png" width="240" height="500"> | <img src="assets/img/contactlist.png" width="240" height="500"> |
+| <img src="contact/assets/img/contactlist.png" width="240" height="500"> | <img src="contact/assets/img/signin.png" width="240" height="500"> |
 
 
 ---
